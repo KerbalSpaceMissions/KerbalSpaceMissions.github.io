@@ -112,4 +112,6 @@ body {
 
 .mission-img {
     height: auto;
+    width: 1000px;
+    padding-right: 200px;
 }
